@@ -1,6 +1,6 @@
 ## Jennifer Hightower—@jdh2021
 
-Hi! I'm Jennifer, a software engineer who loves code and cozy games. Most recently I've been working on :dog: [IBDog](https://github.com/jdh2021/ibd-dog-solo), an app to help owners of dogs with Inflammatory Bowel Disease manage the condition. 
+Hi! I'm Jennifer, a software engineer who loves code and cozy games. Check out :dog: [IBDog](https://github.com/jdh2021/ibd-dog-solo), an app I created to help owners of dogs with Inflammatory Bowel Disease manage the condition, and :page_with_curl: [TradeOut](https://github.com/jdh2021/tradeout), a collaborative client project that simplifies generating and signing digital purchase agreements. 
 
 ### My Values 
 -	:mag: Curiosity in all things
