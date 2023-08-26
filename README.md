@@ -19,7 +19,3 @@ Hi! I'm Jennifer, a software engineer who loves code and cozy games. Check out :
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) 
 ![Postman](https://img.shields.io/badge/postman-FF6C37?style=flat&logo=postman&logoColor=white)
-
-### Get in Touch
-
-- [:envelope:](mailto:jhightowermn@gmail.com) or [:link:](https://www.linkedin.com/in/jennifer-hightower-mn/)
